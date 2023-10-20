@@ -1,4 +1,4 @@
-package com.codepath.articlesearch
+package com.codepath.articlesearchpart3
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

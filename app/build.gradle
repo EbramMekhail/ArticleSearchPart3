@@ -15,7 +15,7 @@ android {
     compileSdk 32
 
     defaultConfig {
-        applicationId "com.codepath.articlesearch"
+        applicationId "com.codepath.articlesearchpart3"
         minSdk 23
         targetSdk 32
         versionCode 1
